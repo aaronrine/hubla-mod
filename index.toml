@@ -151,11 +151,6 @@ hash = "b111125cf359be84378bf7b2c7fb68a35bc68f10a2e207ccc2216b059459ad95"
 metafile = true
 
 [[files]]
-file = "mods/hydrogen-reforged.toml"
-hash = "a81b62b69d5fdf3ab5e125c5d4416c99c9ae24e45683f94c29643cc0fc0045eb"
-metafile = true
-
-[[files]]
 file = "mods/i-know-what-im-doing.toml"
 hash = "d1a0a284e11fabcb7abc46c5643d4676c1c88b4039d094a7c088ddf3fb2a0685"
 metafile = true
