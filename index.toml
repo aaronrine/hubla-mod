@@ -60,6 +60,11 @@ hash = "f0e07dbd37ed72b435311c2f17869ce500e91bcca3e83edef67669de80f038b8"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.toml"
+hash = "443212514ef38188d692a4c6640ee3f21643afe7b31d414241541dc46dc22957"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config-forge.toml"
 hash = "00d524a05bb039db4fd460241c92e99291516b8c071c34c449cca5405c992da6"
 metafile = true
