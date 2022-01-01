@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/abnormals-delight.toml"
+hash = "59182af02c1fa267de2fc7e62a3dbede4696d3ee0b7cb61acce41443803069ad"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "b8a396b086d710d4d798f38c72c683e61eb5a4e087576c544de4f7606797b34d"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "db72b669bdd9cae3409601bcba55dc0f661cc84420d83ba5e4aa9589a7ffefee"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.toml"
+hash = "280f7ad1869fdf7c07153975036a85e58a2c30747fb85c544a1d2fb39f6b801d"
 metafile = true
 
 [[files]]
@@ -133,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.toml"
 hash = "c54386eaab93ae91222dd3548d3489469f05ace3d3062b385fdf00d1bbf01824"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.toml"
+hash = "b111125cf359be84378bf7b2c7fb68a35bc68f10a2e207ccc2216b059459ad95"
 metafile = true
 
 [[files]]
