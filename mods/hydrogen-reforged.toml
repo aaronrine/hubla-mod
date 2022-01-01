@@ -1,0 +1,13 @@
+name = "HeIium"
+filename = "helium-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3526/14/helium-1.0.jar"
+hash-format = "murmur2"
+hash = "3423434222"
+
+[update]
+[update.curseforge]
+file-id = 3526014
+project-id = 546584
