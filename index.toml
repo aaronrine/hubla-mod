@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "go1.17.5.linux-amd64.tar.gz"
-hash = "bd78114b0d441b029c8fe0341f4910370925a4d270a6a590668840675b0c653e"
-
-[[files]]
 file = "mods/abnormals-delight.toml"
 hash = "59182af02c1fa267de2fc7e62a3dbede4696d3ee0b7cb61acce41443803069ad"
 metafile = true
