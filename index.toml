@@ -296,6 +296,11 @@ hash = "2ea760434c6bd74439868cc66c8937fdfd2073baf035cfa437e6de5d160b84fa"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.toml"
+hash = "2f4a0f003ca0c35e4e363f4b8e5852c01d81456386e9ce7b80b1a913353ee39c"
+metafile = true
+
+[[files]]
 file = "mods/pane-in-the-glass.toml"
 hash = "7b067108a7812c7b610afb535be7c1dbb38fd8a6488fed80ef3b2e2e02af35c6"
 metafile = true
