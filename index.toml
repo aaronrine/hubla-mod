@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "go1.17.5.linux-amd64.tar.gz"
+hash = "bd78114b0d441b029c8fe0341f4910370925a4d270a6a590668840675b0c653e"
+
+[[files]]
 file = "mods/abnormals-delight.toml"
 hash = "59182af02c1fa267de2fc7e62a3dbede4696d3ee0b7cb61acce41443803069ad"
 metafile = true
@@ -321,6 +325,11 @@ hash = "e9e39e088e98a3b4ab1e2a7e96c5ae38bc08d22f072eddd5769a601c3a54237f"
 metafile = true
 
 [[files]]
+file = "mods/roadrunner.toml"
+hash = "ad13aa37b06c1b71e1d4f472aebc0d3accf50cf208a221767bdde42875efb288"
+metafile = true
+
+[[files]]
 file = "mods/selene.toml"
 hash = "9f1ba48b8391cc499e92fe689328c052699fb37ff62c765df6a399d27e7e1504"
 metafile = true
@@ -342,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-reforged.toml"
-hash = "1de386aa56c6b9bc914603d1ada85c625e545478d7156c14b1ab491164379ff2"
+hash = "62fca8b787988a6739b435bddb4afffd599b0d5786c6722a5e9369769134f062"
 metafile = true
 
 [[files]]
