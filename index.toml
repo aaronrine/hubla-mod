@@ -101,6 +101,16 @@ hash = "53f5036264729beeda2846d4f46ca5c4220c34ed7373ae2ffb1492dfe85238eb"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.toml"
+hash = "59cb0135570a5e3dea26c4a76244efef28ef01ba9c14b53b8f25f10bf93876af"
+metafile = true
+
+[[files]]
+file = "mods/corail-woodcutter.toml"
+hash = "82461fe7ab5459947afb0f39b9fafb8dffde473d4c7b6fd464d777bf6631bb16"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.toml"
 hash = "ad2f92fdab7fc5a4b80ec2deedc8e2bb5d93499766bc766291f435696b5eedd0"
 metafile = true
@@ -328,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/quark.toml"
 hash = "08bd3e5a99c8209124ab967f51516d2364f0604f42de9ae09e8c446e155f8804"
+metafile = true
+
+[[files]]
+file = "mods/quickteleports.toml"
+hash = "7454ad4dfbef702794c859dac7e71cb90c9b13c2eb317a7a617b50d7fafd93c9"
 metafile = true
 
 [[files]]
