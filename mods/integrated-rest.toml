@@ -1,0 +1,13 @@
+name = "Integrated REST"
+filename = "IntegratedREST-1.16.5-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3498/289/IntegratedREST-1.16.5-1.1.5.jar"
+hash-format = "murmur2"
+hash = "765217751"
+
+[update]
+[update.curseforge]
+file-id = 3498289
+project-id = 284332

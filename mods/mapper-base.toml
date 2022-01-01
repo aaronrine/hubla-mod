@@ -1,0 +1,13 @@
+name = "Mapper Base"
+filename = "mapperbase-1.16.5-2.4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3350/373/mapperbase-1.16.5-2.4.0.0.jar"
+hash-format = "murmur2"
+hash = "166462222"
+
+[update]
+[update.curseforge]
+file-id = 3350373
+project-id = 367442

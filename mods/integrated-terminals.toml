@@ -1,0 +1,13 @@
+name = "Integrated Terminals"
+filename = "IntegratedTerminals-1.16.5-1.2.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3546/775/IntegratedTerminals-1.16.5-1.2.11.jar"
+hash-format = "murmur2"
+hash = "794661707"
+
+[update]
+[update.curseforge]
+file-id = 3546775
+project-id = 295910

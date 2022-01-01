@@ -1,0 +1,13 @@
+name = "Road Stuff"
+filename = "roadstuff-1.16.5-4.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3350/411/roadstuff-1.16.5-4.3.0.jar"
+hash-format = "murmur2"
+hash = "3818218340"
+
+[update]
+[update.curseforge]
+file-id = 3350411
+project-id = 238984

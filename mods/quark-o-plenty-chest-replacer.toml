@@ -1,0 +1,13 @@
+name = "Quark-O-Plenty Chest Replacer"
+filename = "qopfix-1.16.4-0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3522/526/qopfix-1.16.4-0.1.jar"
+hash-format = "murmur2"
+hash = "3569485737"
+
+[update]
+[update.curseforge]
+file-id = 3522526
+project-id = 546199
