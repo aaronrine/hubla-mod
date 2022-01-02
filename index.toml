@@ -11,6 +11,11 @@ hash = "97213d7e1e00c5e72352fa0bf26d515c9fdea56cb5df835c0eafaeaaac9aa33a"
 metafile = true
 
 [[files]]
+file = "mods/advanced-peripherals.toml"
+hash = "ae3657297bd5725e27e619992102bd89c00d8580e2826c66b0757c6ca6c22f31"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "b8a396b086d710d4d798f38c72c683e61eb5a4e087576c544de4f7606797b34d"
 metafile = true
