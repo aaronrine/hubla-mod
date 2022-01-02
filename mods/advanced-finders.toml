@@ -1,0 +1,13 @@
+name = "Advanced Finders"
+filename = "AdFinders-1.16.5-5.0.11.0-build.0206.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3554/995/AdFinders-1.16.5-5.0.11.0-build.0206.jar"
+hash-format = "murmur2"
+hash = "3593275593"
+
+[update]
+[update.curseforge]
+file-id = 3554995
+project-id = 260925

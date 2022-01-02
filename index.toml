@@ -6,6 +6,11 @@ hash = "59182af02c1fa267de2fc7e62a3dbede4696d3ee0b7cb61acce41443803069ad"
 metafile = true
 
 [[files]]
+file = "mods/advanced-finders.toml"
+hash = "97213d7e1e00c5e72352fa0bf26d515c9fdea56cb5df835c0eafaeaaac9aa33a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "b8a396b086d710d4d798f38c72c683e61eb5a4e087576c544de4f7606797b34d"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/flywheel.toml"
 hash = "b111125cf359be84378bf7b2c7fb68a35bc68f10a2e207ccc2216b059459ad95"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.toml"
+hash = "f38eabfbbd86bcc171abe2b6298c5f1326286bfcf82f99ec45f972c65bc9b878"
 metafile = true
 
 [[files]]
