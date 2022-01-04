@@ -241,6 +241,16 @@ hash = "048c7a36ab01ccb9c8c23029e4b12992b65483a84aa826af913a7190f17db96c"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-professions-jep.toml"
+hash = "d85da1ed80004b42814e45999b205780d8d0563d55acb4c98c6d92385527ee7b"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.toml"
+hash = "2f80d40f93959a9e13657615313708bedc174286b4f467e115b8d5ad608a69d7"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.toml"
 hash = "58abcecb0d8bc619dc3471585b44156617a04601f5a81155e4ecf4226720df7e"
 metafile = true
