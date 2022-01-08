@@ -281,11 +281,6 @@ hash = "29d513a8a3b6425e43608113688032435d27b13a7490afbce2e28085bd1cdcc6"
 metafile = true
 
 [[files]]
-file = "mods/immersive-geology.toml"
-hash = "63f8b6c1698b3c53ce194f9f4f05e1a5d4d8cff5c93e83353b9c456ea590b12a"
-metafile = true
-
-[[files]]
 file = "mods/immersive-petroleum.toml"
 hash = "165d18fd8bd01287725c6cefadfa33e3e3d1d31e1ffba4babe1e9f2f31e3a9d6"
 metafile = true
