@@ -196,11 +196,6 @@ hash = "ddcac5d7e9557e17b8955b2188667cb86dc0d563f981ddcead3864f88f2150a3"
 metafile = true
 
 [[files]]
-file = "mods/dustrial-decor.toml"
-hash = "653dcf148606db0aca292190bd4bfd00981bf7e52d18e80e6d969d454779e985"
-metafile = true
-
-[[files]]
 file = "mods/enderchests.toml"
 hash = "aeb42eddf670f95034882beaf7043fda7727e7fe78837f49d70ce92984fcfbdc"
 metafile = true
