@@ -71,11 +71,6 @@ hash = "5837a3fe946cfa7c99b813bb279a97a35c7766e6da88a7db226527fedfceef47"
 metafile = true
 
 [[files]]
-file = "mods/betterend-forge-port.toml"
-hash = "67ce7d811bf776b0cd1ce368863fdfab06eebcf6127bf40b301f49a22abb485e"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "db72b669bdd9cae3409601bcba55dc0f661cc84420d83ba5e4aa9589a7ffefee"
 metafile = true
