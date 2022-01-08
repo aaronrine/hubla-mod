@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/abnormals-delight.toml"
+hash = "59182af02c1fa267de2fc7e62a3dbede4696d3ee0b7cb61acce41443803069ad"
+metafile = true
+
+[[files]]
+file = "mods/advanced-finders.toml"
+hash = "97213d7e1e00c5e72352fa0bf26d515c9fdea56cb5df835c0eafaeaaac9aa33a"
+metafile = true
+
+[[files]]
+file = "mods/advanced-peripherals.toml"
+hash = "ae3657297bd5725e27e619992102bd89c00d8580e2826c66b0757c6ca6c22f31"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.toml"
 hash = "22849bd3a00c51f78d6fb659ef05ce22ef921a8b004499f11ae4caea1be17789"
 metafile = true
@@ -96,6 +111,16 @@ hash = "f0e07dbd37ed72b435311c2f17869ce500e91bcca3e83edef67669de80f038b8"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.toml"
+hash = "309ef4858f19ac3cbae4a4960a428af0c7420df5f5c6ee93c5bccc531373f856"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.toml"
+hash = "bf88b8aca74bfd528e74dbf701e6a9f55a712f8c28f71408223f98b746c7c54f"
+metafile = true
+
+[[files]]
 file = "mods/chimes.toml"
 hash = "bd3018e540684b80722944b6664a1a56ab4437067798770ce7f057545eb789c7"
 metafile = true
@@ -138,6 +163,16 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.toml"
 hash = "53f5036264729beeda2846d4f46ca5c4220c34ed7373ae2ffb1492dfe85238eb"
+metafile = true
+
+[[files]]
+file = "mods/corail-tombstone.toml"
+hash = "59cb0135570a5e3dea26c4a76244efef28ef01ba9c14b53b8f25f10bf93876af"
+metafile = true
+
+[[files]]
+file = "mods/corail-woodcutter.toml"
+hash = "82461fe7ab5459947afb0f39b9fafb8dffde473d4c7b6fd464d777bf6631bb16"
 metafile = true
 
 [[files]]
@@ -218,6 +253,16 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.toml"
 hash = "c54386eaab93ae91222dd3548d3489469f05ace3d3062b385fdf00d1bbf01824"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.toml"
+hash = "b111125cf359be84378bf7b2c7fb68a35bc68f10a2e207ccc2216b059459ad95"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.toml"
+hash = "f38eabfbbd86bcc171abe2b6298c5f1326286bfcf82f99ec45f972c65bc9b878"
 metafile = true
 
 [[files]]
@@ -366,6 +411,11 @@ hash = "8cbf17593a9a7bc98c86f7aadc03ebed8d04148890186b62c12a88dea2b16361"
 metafile = true
 
 [[files]]
+file = "mods/morpheus.toml"
+hash = "c4b817dfe315f9f2e9bd149faee1a9e748c5556d36675ca6a7b023db9d3f547e"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.toml"
 hash = "2ea760434c6bd74439868cc66c8937fdfd2073baf035cfa437e6de5d160b84fa"
 metafile = true
@@ -373,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.toml"
 hash = "48e02a33b24eb268c4e36d7449d82149a2e89f4cc3e2fa394ee10746faf00c04"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.toml"
+hash = "2f4a0f003ca0c35e4e363f4b8e5852c01d81456386e9ce7b80b1a913353ee39c"
 metafile = true
 
 [[files]]
@@ -438,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/road-stuff.toml"
 hash = "e9e39e088e98a3b4ab1e2a7e96c5ae38bc08d22f072eddd5769a601c3a54237f"
+metafile = true
+
+[[files]]
+file = "mods/roadrunner.toml"
+hash = "ad13aa37b06c1b71e1d4f472aebc0d3accf50cf208a221767bdde42875efb288"
 metafile = true
 
 [[files]]
