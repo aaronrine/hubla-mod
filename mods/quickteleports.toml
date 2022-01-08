@@ -1,0 +1,13 @@
+name = "QuickTeleports"
+filename = "quickteleports-1.16.2-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3037/920/quickteleports-1.16.2-1.1.2.jar"
+hash-format = "murmur2"
+hash = "4006046735"
+
+[update]
+[update.curseforge]
+file-id = 3037920
+project-id = 315037
