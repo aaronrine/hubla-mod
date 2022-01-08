@@ -1,0 +1,13 @@
+name = "Tropicraft"
+filename = "Tropicraft-9.0.1-beta+64.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3374/909/Tropicraft-9.0.1-beta+64.jar"
+hash-format = "murmur2"
+hash = "2878143157"
+
+[update]
+[update.curseforge]
+file-id = 3374909
+project-id = 254794

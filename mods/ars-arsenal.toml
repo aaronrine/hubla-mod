@@ -1,0 +1,13 @@
+name = "Ars Arsenal"
+filename = "arsarsenal-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3597/424/arsarsenal-0.1.1.jar"
+hash-format = "murmur2"
+hash = "2073176069"
+
+[update]
+[update.curseforge]
+file-id = 3597424
+project-id = 561848

@@ -1,0 +1,13 @@
+name = "The Nuka-Cola Mod"
+filename = "Nuka-Cola Mod V1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3388/492/Nuka-Cola Mod V1.6.0.jar"
+hash-format = "murmur2"
+hash = "2857084379"
+
+[update]
+[update.curseforge]
+file-id = 3388492
+project-id = 500440
