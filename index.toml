@@ -66,11 +66,6 @@ hash = "b0d55afbb19202e6fafc0890842d8f44784674d9a3621b185f49231210fe5fe4"
 metafile = true
 
 [[files]]
-file = "mods/better-end-cities.toml"
-hash = "58cd6e55465406a4857b9cb90f9fdbd301b25ae6f5ceb81bea40827ce0aabaa2"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.toml"
 hash = "5837a3fe946cfa7c99b813bb279a97a35c7766e6da88a7db226527fedfceef47"
 metafile = true
