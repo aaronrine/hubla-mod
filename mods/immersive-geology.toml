@@ -1,0 +1,13 @@
+name = "Immersive Geology"
+filename = "immersive_geology-1.0v6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3587/667/immersive_geology-1.0v6.jar"
+hash-format = "murmur2"
+hash = "3526877194"
+
+[update]
+[update.curseforge]
+file-id = 3587667
+project-id = 370614
